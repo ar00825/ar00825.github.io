@@ -1,2 +1,4 @@
-# ar00825.github.io
-This is my personal website showcasing my projects, skills and experience. Built with HTML, CSS and Javascript and hosted using Github pages
+# Personal Website
+# Goals:
+- Build a personal website using HTML, CSS and Javascript
+- Include projects, experiences and skills specific to you
